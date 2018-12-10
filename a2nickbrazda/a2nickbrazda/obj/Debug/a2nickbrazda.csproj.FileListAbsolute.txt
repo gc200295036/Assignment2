@@ -1,0 +1,10 @@
+C:\Users\Nick\Desktop\a2nickbrazda\a2nickbrazda\bin\Debug\a2nickbrazda.exe.config
+C:\Users\Nick\Desktop\a2nickbrazda\a2nickbrazda\bin\Debug\a2nickbrazda.exe
+C:\Users\Nick\Desktop\a2nickbrazda\a2nickbrazda\bin\Debug\a2nickbrazda.pdb
+C:\Users\Nick\Desktop\a2nickbrazda\a2nickbrazda\obj\Debug\a2nickbrazda.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\a2nickbrazda\a2nickbrazda\obj\Debug\a2nickbrazda.Form1.resources
+C:\Users\Nick\Desktop\a2nickbrazda\a2nickbrazda\obj\Debug\a2nickbrazda.Properties.Resources.resources
+C:\Users\Nick\Desktop\a2nickbrazda\a2nickbrazda\obj\Debug\a2nickbrazda.csproj.GenerateResource.cache
+C:\Users\Nick\Desktop\a2nickbrazda\a2nickbrazda\obj\Debug\a2nickbrazda.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\a2nickbrazda\a2nickbrazda\obj\Debug\a2nickbrazda.exe
+C:\Users\Nick\Desktop\a2nickbrazda\a2nickbrazda\obj\Debug\a2nickbrazda.pdb
